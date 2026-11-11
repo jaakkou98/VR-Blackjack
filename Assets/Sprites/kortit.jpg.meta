@@ -1,0 +1,1271 @@
+fileFormatVersion: 2
+guid: cce619b43ae5f00418094b93483ac3c7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kortit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 941
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56428a14924502444b670012bdc5c454
+      internalID: 280445559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 941
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fc11113ba5a2741817d83c131a27ae
+      internalID: -527633647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_2
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 941
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c3f3d4a10351e43aef0fb541e6ef66
+      internalID: -312143380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_3
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 941
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d353e15c5d5ba7b4abb4f11191dbfe09
+      internalID: 1295804215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_4
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 941
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a93aa2faa1d7944bb5f5368582872c0
+      internalID: 873690989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_5
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 941
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f928be97f5c664e9b609df9bec6802
+      internalID: 1782991891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_6
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 941
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cac748ae74d4f43a6645220b810da5
+      internalID: -1219887460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_7
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 941
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bdbec8f84b20e49af877823ab86fce
+      internalID: -273224584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_8
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 941
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523ce7acd9db8854fb722598482ba930
+      internalID: -1775527725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_9
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 941
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92274d633621584bb165ddbf1742765
+      internalID: -699137251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_10
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 941
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6fada5039f4ac45be457807c3cd1d0
+      internalID: 475426406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_11
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 941
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b364d6e3e4649044a9cb923119dbb832
+      internalID: -1267911638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_12
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 941
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6b63b8882da1141b9510671663b02a
+      internalID: 451151977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7148eb3c56c534288122c7174afdb7
+      internalID: -771545921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 628
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe5077fc1085724fbd02c0f330eb10d
+      internalID: -1851112678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_15
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 628
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875a29fc9cd4b664aa12bee8d781801d
+      internalID: -653600074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_16
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 628
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fcf0d66b040c243975d33f049ab24d
+      internalID: -549184827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_17
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 628
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699f7738ed6ef4642b4c4b3e02fefeab
+      internalID: -836535702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_18
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 628
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39db376d2f514dc45a13533de679592a
+      internalID: -1693961350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_19
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 628
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d500000ceba7edb4c8cb08b0ccc6aff9
+      internalID: -856687449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_20
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 628
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf7580b398bc614fa110e7183c52c9b
+      internalID: 115603503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_21
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 628
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e4dcd013ff6264c86afaaa83afc765
+      internalID: 2065300764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_22
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 628
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458795b65a629c7429da12f49ef73f29
+      internalID: 1893841434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_23
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 628
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5160d4ae33dc871469c00491188d70c4
+      internalID: -1275832259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_24
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 628
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5daa1c9bf325b4438bb7b875be5d838
+      internalID: -1251451161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_25
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 628
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51feec2646bb32d4bb0324e6369813d9
+      internalID: 571781281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc72933c96b931e44b424606c34c29fa
+      internalID: -864308099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 315
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121a68ffce36ea54780629e662daad15
+      internalID: -1279299996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_28
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 315
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade401c681118144ba24ed996ad6a526
+      internalID: 129888307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_29
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 315
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3feaba4a7886447bb49f3de54fd085
+      internalID: -1700546598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_30
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 315
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f407a577f65b005469ef6eca2f9ccb14
+      internalID: 1382826896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_31
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 315
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6872ca0330b7af4eb92a80b33905840
+      internalID: 267366260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_32
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 315
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae956d2e4d7a354083a7254f34fd71e
+      internalID: -1802165578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_33
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 315
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd6318e0a469e84cba4fbf614fe6d44
+      internalID: 161372807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_34
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 315
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838159f2f74b37c42a2817f447f8e040
+      internalID: 1003947889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_35
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 315
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee94821b7dd23864f9677a2e3e6f898d
+      internalID: 693589833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_36
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 315
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e732135f54960a741836914a15dca9ba
+      internalID: 941077599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_37
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 315
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d1053326e2e3c4f9bddab5fb5384c4
+      internalID: -945776229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_38
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 315
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0296dca6dd5f80b4cbcbfaba2fe6ea95
+      internalID: 1048321619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae024887df0c5654bbc3da9010e177da
+      internalID: -2069306231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_40
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdbbb80d5bd63245ba031868b215e41
+      internalID: 1987837280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_41
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907eb3a512d89cf48895ea061725fed1
+      internalID: -1989109843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_42
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 2
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f46879bf2949fb40aa5bcf537fd386f
+      internalID: -1035078249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_43
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 2
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6dfaaf6b71c674285ed164a90df045
+      internalID: 1222472957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_44
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 2
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b4407d10ffcf847959565020fde6c9
+      internalID: -886651087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_45
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 2
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bc73b3d2f2b904eac34c5c90ce665d
+      internalID: 806029930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_46
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 2
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49b4f15cadfa954d87f732e631b6238
+      internalID: -206148315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_47
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 2
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9ceef36a390634db40fce8a859cf05
+      internalID: -190957250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_48
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 2
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff3fb1d9f42b484e9cc4c6604aa9abd
+      internalID: 829089668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_49
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 2
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89eb6e45772b4c94a8cb503568a33015
+      internalID: 657277683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_50
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 2
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b2e7bf461167e47ae76c45518a9aa3
+      internalID: -1035938636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kortit_51
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 2
+        width: 223
+        height: 313
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99b11b3387cf6546acde5ae7ed6adce
+      internalID: 1618522341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1ab49daa65e56d144bc137e1e4f18824
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kortit_0: 280445559
+      kortit_1: -527633647
+      kortit_10: 475426406
+      kortit_11: -1267911638
+      kortit_12: 451151977
+      kortit_13: -771545921
+      kortit_14: -1851112678
+      kortit_15: -653600074
+      kortit_16: -549184827
+      kortit_17: -836535702
+      kortit_18: -1693961350
+      kortit_19: -856687449
+      kortit_2: -312143380
+      kortit_20: 115603503
+      kortit_21: 2065300764
+      kortit_22: 1893841434
+      kortit_23: -1275832259
+      kortit_24: -1251451161
+      kortit_25: 571781281
+      kortit_26: -864308099
+      kortit_27: -1279299996
+      kortit_28: 129888307
+      kortit_29: -1700546598
+      kortit_3: 1295804215
+      kortit_30: 1382826896
+      kortit_31: 267366260
+      kortit_32: -1802165578
+      kortit_33: 161372807
+      kortit_34: 1003947889
+      kortit_35: 693589833
+      kortit_36: 941077599
+      kortit_37: -945776229
+      kortit_38: 1048321619
+      kortit_39: -2069306231
+      kortit_4: 873690989
+      kortit_40: 1987837280
+      kortit_41: -1989109843
+      kortit_42: -1035078249
+      kortit_43: 1222472957
+      kortit_44: -886651087
+      kortit_45: 806029930
+      kortit_46: -206148315
+      kortit_47: -190957250
+      kortit_48: 829089668
+      kortit_49: 657277683
+      kortit_5: 1782991891
+      kortit_50: -1035938636
+      kortit_51: 1618522341
+      kortit_6: -1219887460
+      kortit_7: -273224584
+      kortit_8: -1775527725
+      kortit_9: -699137251
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
